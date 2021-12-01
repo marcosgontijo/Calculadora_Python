@@ -1,6 +1,6 @@
 <h1> Calculadora comum em Python <h1>
 
->Status: Developing ✔️
+>Status: Developed ✔️
 
 ### Programa criado apenas para estudo, com ideia de calcular os valores aplicado na calculadora.
 
